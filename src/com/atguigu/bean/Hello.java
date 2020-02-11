@@ -8,6 +8,6 @@ import com.atguigu.Customer;
  */
 public class Hello {
     Customer c ;
-    int a;
+    int b;
 
 }
